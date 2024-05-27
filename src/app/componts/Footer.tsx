@@ -71,7 +71,10 @@ const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="https://img.icons8.com/fluent/30/000000/twitter.png" />
+          <Image
+            src="https://img.icons8.com/fluent/30/000000/twitter.png"
+            alt={""}
+          />
         </Link>
       </div>
       <p className="text-center text-gray-700 font-medium">
