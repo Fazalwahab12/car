@@ -31,50 +31,50 @@ const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          {/* <Image
             src="https://img.icons8.com/fluent/30/000000/facebook-new.png"
             alt={""}
-          />
+          /> */}
         </Link>
         <Link
           href="https://linkedin.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          {/* <Image
             src="https://img.icons8.com/fluent/30/000000/linkedin-2.png"
             alt={""}
-          />
+          /> */}
         </Link>
         <Link
           href="https://instagram.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          {/* <Image
             src="https://img.icons8.com/fluent/30/000000/instagram-new.png"
             alt={""}
-          />
+          /> */}
         </Link>
         <Link
           href="https://messenger.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          {/* <Image
             src="https://img.icons8.com/fluent/30/000000/facebook-messenger--v2.png"
             alt={""}
-          />
+          /> */}
         </Link>
         <Link
           href="https://twitter.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          {/* <Image
             src="https://img.icons8.com/fluent/30/000000/twitter.png"
             alt={""}
-          />
+          /> */}
         </Link>
       </div>
       <p className="text-center text-gray-700 font-medium">

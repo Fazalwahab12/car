@@ -9,11 +9,11 @@ const Hero3 = () => {
     >
       <div className="flex flex-col gap-6 md:flex-row items-center max-w-8xl">
         <div className="w-full p-16   md:w-1/2 flex justify-center md:justify-end">
-          <Image
+          {/* <Image
             src="https://bumble.com/_next/image?url=%2Fbumble-brand-assets%2Flanding%2Fassets%2Fphotos%2Flanding-section-1.jpg&w=561&q=75"
             className="  rounded-2xl "
             alt={""}
-          />
+          /> */}
         </div>
 
         <div className="w-full md:w-1/2 lg:pr-32">
