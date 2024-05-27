@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 
 const Blog = () => {
@@ -9,7 +10,7 @@ const Blog = () => {
         </h1>
         <div className="grid w-full grid-cols-1 gap-6 mx-auto lg:grid-cols-3">
           <div className="p-6">
-            <img
+            <Image
               className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl"
               src="https://via.placeholder.com/150"
               alt="blog"
@@ -25,7 +26,7 @@ const Blog = () => {
             </p>{" "}
           </div>
           <div className="p-6">
-            <img
+            <Image
               className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl"
               src="https://via.placeholder.com/150"
               alt="blog"
@@ -41,7 +42,7 @@ const Blog = () => {
             </p>{" "}
           </div>
           <div className="p-6">
-            <img
+            <Image
               className="object-cover object-center w-full mb-8 lg:h-48 md:h-36 rounded-xl"
               src="https://via.placeholder.com/150"
               alt="blog"
